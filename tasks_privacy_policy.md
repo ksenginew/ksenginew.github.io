@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 # Privacy Policy
 
 **Last updated:** April 06, 2026
